@@ -22,4 +22,6 @@ git config --global push.default upstream
 git config --global merge.conflictstyle diff3
 ```
 
+## Import Terminal Profile
 
+After opening the terminal, you can choose **Preference**, and choose to import the **SolarizedLight.terminal** in the repository. The final step is to set this as the default profile.
